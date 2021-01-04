@@ -1,5 +1,19 @@
 てすとなんだよなー
 
+<script src="main.js"></script>
+<img width="500" onclick="generator()" src="7145c379.jpg" />
+<div class="scene" id="scene_1"></div>
+<div class="scene" id="scene_2"></div>
+<div class="scene" id="scene_3"></div>
+<div class="scene" id="scene_4"></div>
+<div class="scene" id="scene_5"></div>
+<div class="scene" id="scene_6"></div>
+<div class="scene" id="scene_7"></div>
+<div class="scene" id="scene_8"></div>
+<div class="scene" id="scene_9"></div>
+<div class="scene" id="scene_10"></div>
+<div class="scene" id="scene_11"></div>
+
 ---
 layout: default
 ---
