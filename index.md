@@ -137,3 +137,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+[![Octocat](./assets/images/busy_banner.png)](https://sites.google.com/site/happybusy/)
